@@ -25,14 +25,14 @@
 
 ## 依赖要求
 
-- Python 3.x
+- Python 2.x
 - OpenCV (cv2)
 - NumPy
 - NAOqi Python SDK
 
 ## 安装说明
 
-1. 安装Python 3.x环境
+1. 安装Python 2.x环境
 2. 安装必要的Python库：
    ```bash
    pip install opencv-python numpy
