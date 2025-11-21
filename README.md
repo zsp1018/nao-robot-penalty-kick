@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://github.com/zsp1018/nao-robot-penalty-kick/raw/main/photo.jpg" width="640" alt="nao">
 </p>
+
 ## 功能特点
 
 - **视觉识别**：使用OpenCV进行足球识别和跟踪
