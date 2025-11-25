@@ -4,8 +4,8 @@
 
 这是一个基于Python开发的NAO机器人足球控制系统，利用OpenCV实现视觉识别功能，结合NAOqi API控制机器人进行足球比赛中的各种动作，如寻球、定位、行走和踢球等。
 <p align="center">
-   <img src="keepdoor.gif alt="动作演示">
-</p>
+  < img src="keepdoor.gif" alt="动作演示">
+</p >
 
 ## 功能特点
 
