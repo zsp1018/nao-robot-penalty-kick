@@ -7,9 +7,7 @@
 <p align="center">
   <img src="kick.gif" alt="动作演示"> 
 </p>
-<p align="center">
-  <img src="keepdoor.gif" alt="动作演示">
-</p>
+
 
 
 
